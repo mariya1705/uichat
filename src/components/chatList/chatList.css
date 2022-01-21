@@ -7,6 +7,16 @@
   .main__chatlist {
     visibility: hidden;
   }
+  .chatlist__heading {
+    visibility: hidden;
+  }
+  .btn-nobg {
+    visibility: hidden;
+  }
+
+  .chatlist__items {
+    visibility: hidden;
+  }
 }
 
 .chatlist__heading {
@@ -58,7 +68,7 @@
   margin-top: 10px;
   cursor: pointer;
   padding: 10px 10px 10px 20px;
-  transition: all 0.3s cubic-bezier(0.88, 0.19, 0.37, 1.11);
+  /* transition: all 0.3s cubic-bezier(0.88, 0.19, 0.37, 1.11);
   transform: scale(0);
   animation-name: showIn;
   animation-duration: 0.2s;

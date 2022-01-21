@@ -15,7 +15,8 @@
     display: inline-flexbox;
   }
   .main__chatcontent {
-    padding: 20px 30px;
+    padding: 10px;
+    margin: auto;
   }
 }
 html,
@@ -91,7 +92,7 @@ body {
   padding: 1px;
 }
 .chat__item__content {
-  background-color: #4462ff;
+  background-color: #02198b;
   color: #fff;
   padding: 15px;
   border-radius: 10px 10px 0 10px;
@@ -156,7 +157,7 @@ body {
   outline: none;
   cursor: pointer;
   font-size: 16px;
-  color: #4665ff;
+  color: #02198b;
   padding: 0;
   border-radius: 5px;
   line-height: 36px;
@@ -176,6 +177,6 @@ body {
   outline: none;
 }
 #sendMsgBtn {
-  background-color: #3b5bfe;
+  background-color: #02198b;
   color: #fff;
 }

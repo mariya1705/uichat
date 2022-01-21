@@ -14,7 +14,7 @@ export default class ChatList extends Component {
     },
     {
       image:
-        "https://pbs.twimg.com/profile_images/1055263632861343745/vIqzOHXj.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ6tM7Nj72bWjr_8IQ37Apr2lJup_pxX_uZA&usqp=CAU",
       id: 2,
       name: "Ayub Rossi",
       active: false,
